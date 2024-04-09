@@ -1,7 +1,7 @@
 # **Grey_Critic**
 ## Running screenshots show
 - **Area compressibility evaluation plate based on the method**
-  <img src="img/Area compressibility evaluation plate.png" width="400" />
+- <img src="img/Area compressibility evaluation plate.png" width="400" />
 ***
 ## Paper Support
 - Original information: Evaluation method of shale reservoir fracability based on double sweet spots
